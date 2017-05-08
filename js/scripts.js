@@ -12,11 +12,11 @@ var endDisplay = function(givenNumber){
     }
     for (var i = 0; i < theArray.length; i++){
       if (theArray[i] % 15 === 0){
-        theArray[i] = "pingpong";
+        theArray[i] = "PING - PONG";
       }else if (theArray[i] % 5 === 0){
-        theArray[i] = "pong";
+        theArray[i] = "PONG";
       }else if (theArray[i] % 3 === 0){
-        theArray[i] = "ping";
+        theArray[i] = "PING";
       }
     } return theArray;
   }

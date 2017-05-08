@@ -27,7 +27,12 @@ body {
 #number {
   background-color: white;
   text-align: center;
-  border-radius: 50%;
+  border-radius: 100%;
+}
+
+#output {
+  padding-left: 50%;
+
 }
 
 ul, ol {
