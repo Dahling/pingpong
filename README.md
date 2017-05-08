@@ -12,7 +12,7 @@
 
 | Objective | Example: Input | Example: Output |
 |:-------------:|:-------------:|:-------------:|
-| It can count up to the provided number | 2 | [1,2] |
+| 
 |  |  |  |
 |  |  |  |
 |  |  |  |
