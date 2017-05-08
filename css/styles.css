@@ -1,0 +1,43 @@
+#given-number {
+  text-align: center;
+  text-transform: uppercase;
+}
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 100px;
+  font-family: Lato;
+  color: white;
+  text-shadow: 4px 2px 4px black;
+}
+
+.form-group {
+  color: white;
+  font-family: lato;
+  font-size: 20px;
+}
+
+body {
+  background-image: url("../img/cloud.png");
+  background-position: center;
+  padding: 150px;
+  margin: 20px;
+}
+
+#number {
+  background-color: white;
+  text-align: center;
+  border-radius: 50%;
+}
+
+ul, ol {
+  list-style: none;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: lato;
+}
+
+label {
+  text-shadow: 4px 2px 4px black;
+}
